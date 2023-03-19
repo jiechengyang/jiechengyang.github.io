@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jiechengyang.github.io/2017/03/20/amd-cmd/</loc>
+    
+    <lastmod>2022-12-26T15:32:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jiechengyang.github.io/2016/11/18/china-javascript-environment/</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>https://jiechengyang.github.io/2017/03/07/commonjs/</loc>
-    
-    <lastmod>2022-12-26T15:32:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jiechengyang.github.io/2017/03/20/amd-cmd/</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
@@ -93,7 +93,7 @@
   </url>
   
   <url>
-    <loc>https://jiechengyang.github.io/2016/10/16/how-it-feels-to-learn-javascript-in-2016/</loc>
+    <loc>https://jiechengyang.github.io/2017/01/18/html5shiv/</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
@@ -107,7 +107,7 @@
   </url>
   
   <url>
-    <loc>https://jiechengyang.github.io/2017/01/18/html5shiv/</loc>
+    <loc>https://jiechengyang.github.io/2016/10/16/how-it-feels-to-learn-javascript-in-2016/</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
@@ -128,14 +128,14 @@
   </url>
   
   <url>
-    <loc>https://jiechengyang.github.io/2018/06/01/js-this/</loc>
+    <loc>https://jiechengyang.github.io/2017/02/28/memory-leak/</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jiechengyang.github.io/2017/05/20/npm-two/</loc>
+    <loc>https://jiechengyang.github.io/2018/06/01/js-this/</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
@@ -149,14 +149,7 @@
   </url>
   
   <url>
-    <loc>https://jiechengyang.github.io/2017/02/28/memory-leak/</loc>
-    
-    <lastmod>2022-12-26T15:32:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jiechengyang.github.io/2017/04/10/npm/</loc>
+    <loc>https://jiechengyang.github.io/2017/05/20/npm-two/</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
@@ -170,7 +163,14 @@
   </url>
   
   <url>
-    <loc>https://jiechengyang.github.io/2022/05/20/questions-in-writing/</loc>
+    <loc>https://jiechengyang.github.io/2017/04/10/npm/</loc>
+    
+    <lastmod>2022-12-26T15:32:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jiechengyang.github.io/2016/10/23/sass/</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
@@ -184,7 +184,7 @@
   </url>
   
   <url>
-    <loc>https://jiechengyang.github.io/2016/10/23/sass/</loc>
+    <loc>https://jiechengyang.github.io/2022/05/20/questions-in-writing/</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
@@ -219,13 +219,6 @@
   </url>
   
   <url>
-    <loc>https://jiechengyang.github.io/2019/07/01/vue-element-change-theme/</loc>
-    
-    <lastmod>2022-12-26T15:32:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://jiechengyang.github.io/2016/11/22/use-jquery-skill/</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
@@ -233,7 +226,7 @@
   </url>
   
   <url>
-    <loc>https://jiechengyang.github.io/2018/06/18/vue-prerender/</loc>
+    <loc>https://jiechengyang.github.io/2019/07/01/vue-element-change-theme/</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
@@ -241,6 +234,13 @@
   
   <url>
     <loc>https://jiechengyang.github.io/2018/05/01/vue-music/</loc>
+    
+    <lastmod>2022-12-26T15:32:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jiechengyang.github.io/2018/06/18/vue-prerender/</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
@@ -261,13 +261,6 @@
   </url>
   
   <url>
-    <loc>https://jiechengyang.github.io/2017/02/14/why-we-dropped-zepto/</loc>
-    
-    <lastmod>2022-12-26T15:32:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://jiechengyang.github.io/2016/12/24/why-introversion-like-alone/</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
@@ -276,6 +269,13 @@
   
   <url>
     <loc>https://jiechengyang.github.io/2018/07/20/yarn/</loc>
+    
+    <lastmod>2022-12-26T15:32:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jiechengyang.github.io/2017/02/14/why-we-dropped-zepto/</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
@@ -303,14 +303,14 @@
   </url>
   
   <url>
-    <loc>https://jiechengyang.github.io/example/index.html</loc>
+    <loc>https://jiechengyang.github.io/categories/index.html</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jiechengyang.github.io/categories/index.html</loc>
+    <loc>https://jiechengyang.github.io/example/index.html</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
@@ -331,14 +331,14 @@
   </url>
   
   <url>
-    <loc>https://jiechengyang.github.io/weblog/index.html</loc>
+    <loc>https://jiechengyang.github.io/tags/index.html</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jiechengyang.github.io/tags/index.html</loc>
+    <loc>https://jiechengyang.github.io/weblog/index.html</loc>
     
     <lastmod>2022-12-26T15:32:02.000Z</lastmod>
     
