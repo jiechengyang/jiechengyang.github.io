@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jiechengyang.github.io/2016/10/07/git/</loc>
-    <lastmod>2022-12-26</lastmod>
-  </url>
-  <url>
-    <loc>https://jiechengyang.github.io/2017/03/20/amd-cmd/</loc>
-    <lastmod>2022-12-26</lastmod>
-  </url>
-  <url>
     <loc>https://jiechengyang.github.io/2016/11/18/china-javascript-environment/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
@@ -17,7 +9,7 @@
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2017/05/01/gulp/</loc>
+    <loc>https://jiechengyang.github.io/2017/03/20/amd-cmd/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
@@ -29,15 +21,23 @@
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
+    <loc>https://jiechengyang.github.io/2016/10/07/git/</loc>
+    <lastmod>2022-12-26</lastmod>
+  </url>
+  <url>
     <loc>https://jiechengyang.github.io/2017/07/15/hexo-next-five/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2016/12/15/hexo-next-four/</loc>
+    <loc>https://jiechengyang.github.io/2016/09/03/hexo-next-one/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2016/09/03/hexo-next-one/</loc>
+    <loc>https://jiechengyang.github.io/2017/05/01/gulp/</loc>
+    <lastmod>2022-12-26</lastmod>
+  </url>
+  <url>
+    <loc>https://jiechengyang.github.io/2016/12/15/hexo-next-four/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
@@ -53,14 +53,6 @@
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2017/01/18/html5shiv/</loc>
-    <lastmod>2022-12-26</lastmod>
-  </url>
-  <url>
-    <loc>https://jiechengyang.github.io/2017/02/18/js-memory-management-and-gc/</loc>
-    <lastmod>2022-12-26</lastmod>
-  </url>
-  <url>
     <loc>https://jiechengyang.github.io/2016/10/16/how-it-feels-to-learn-javascript-in-2016/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
@@ -69,11 +61,7 @@
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2018/06/01/js-this/</loc>
-    <lastmod>2022-12-26</lastmod>
-  </url>
-  <url>
-    <loc>https://jiechengyang.github.io/2017/02/28/memory-leak/</loc>
+    <loc>https://jiechengyang.github.io/2017/01/18/html5shiv/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
@@ -81,15 +69,11 @@
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2019/10/10/mid-age/</loc>
+    <loc>https://jiechengyang.github.io/2017/02/18/js-memory-management-and-gc/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2017/04/10/npm/</loc>
-    <lastmod>2022-12-26</lastmod>
-  </url>
-  <url>
-    <loc>https://jiechengyang.github.io/2022/05/20/questions-in-writing/</loc>
+    <loc>https://jiechengyang.github.io/2018/06/01/js-this/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
@@ -97,7 +81,15 @@
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2017/02/11/respond-js/</loc>
+    <loc>https://jiechengyang.github.io/2019/10/10/mid-age/</loc>
+    <lastmod>2022-12-26</lastmod>
+  </url>
+  <url>
+    <loc>https://jiechengyang.github.io/2017/02/28/memory-leak/</loc>
+    <lastmod>2022-12-26</lastmod>
+  </url>
+  <url>
+    <loc>https://jiechengyang.github.io/2017/04/10/npm/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
@@ -105,7 +97,11 @@
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2017/06/08/service-worker/</loc>
+    <loc>https://jiechengyang.github.io/2022/05/20/questions-in-writing/</loc>
+    <lastmod>2022-12-26</lastmod>
+  </url>
+  <url>
+    <loc>https://jiechengyang.github.io/2017/02/11/respond-js/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
@@ -113,7 +109,7 @@
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2022/06/01/thoughts-1/</loc>
+    <loc>https://jiechengyang.github.io/2017/06/08/service-worker/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
@@ -125,7 +121,7 @@
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2016/11/22/use-jquery-skill/</loc>
+    <loc>https://jiechengyang.github.io/2022/06/01/thoughts-1/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
@@ -133,7 +129,7 @@
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2017/11/11/vue-sell/</loc>
+    <loc>https://jiechengyang.github.io/2016/11/22/use-jquery-skill/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
@@ -141,11 +137,15 @@
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2019/03/31/vue-ssr/</loc>
+    <loc>https://jiechengyang.github.io/2018/05/01/vue-music/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2018/05/01/vue-music/</loc>
+    <loc>https://jiechengyang.github.io/2017/11/11/vue-sell/</loc>
+    <lastmod>2022-12-26</lastmod>
+  </url>
+  <url>
+    <loc>https://jiechengyang.github.io/2019/03/31/vue-ssr/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
@@ -153,11 +153,11 @@
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2018/07/20/yarn/</loc>
+    <loc>https://jiechengyang.github.io/2016/12/24/why-introversion-like-alone/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
   <url>
-    <loc>https://jiechengyang.github.io/2016/12/24/why-introversion-like-alone/</loc>
+    <loc>https://jiechengyang.github.io/2018/07/20/yarn/</loc>
     <lastmod>2022-12-26</lastmod>
   </url>
 </urlset> 
