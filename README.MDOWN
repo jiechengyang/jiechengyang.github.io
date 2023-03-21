@@ -1,0 +1,31 @@
+我的个人博客，博客地址： [https://jiechengyang.github.io/](https://jiechengyang.github.io/)
+
+## Build Setup
+
+```bash
+# 我是使用npm来安装依赖包和启动项目，没有用yarn
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:4000
+npm run dev
+
+# deploy[部署]
+npm run deploy
+```
+
+---
+
+## 浏览器支持 Browser support
+
+![Browser support](http://iissnan.com/nexus/next/browser-support.png)
+
+[建站日志](https://neveryu.github.io/weblog/) | [给我留言](https://neveryu.github.io/guestbook/)
+
+## 参考
+
+-[使用 Hexo+GitHub 搭建个人免费博客教程1](https://zhuanlan.zhihu.com/p/305812430)
+-[使用 Hexo+GitHub 搭建个人免费博客教程2](https://zhuanlan.zhihu.com/p/60578464)
+-[使用 Hexo+GitHub 搭建个人免费博客教程3](https://luuman.github.io/2015/12/27/Hexo/)
+-[Hexo进阶教程（四）| 部署Hexo到自己的服务器](https://cloud.tencent.com/developer/article/1662792)
+-[Hexo官网](https://hexo.io/zh-cn/docs/commands)
